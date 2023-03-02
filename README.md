@@ -4,10 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%cf2929&lines=Instrument+engineering+student,+CEO.)](https://git.io/typing-svg)
 
 <ul class="nav">
-    <li>🎓  I'm currently instrument engineering and operation of instruments and apparatus student</li>
+    <li>🎓  I'm currently instrument engineering and operation of instruments and apparatus student.</li>
     <li>🌱  I'm on track with learning more about Backend and Frontend.</li>
     <li>✍️  In my free time, I enjoy strength training and learning foreign languages.</li>
-    <li>💬  Lets have a Meet or Zoom call, feel free to pick a slot on Calendly to talk with me.</li>
+    <li>💬  Let's have a Meet or Zoom call, feel free to pick a slot on Calendly to talk with me.</li>
 </ul>
 
 <h3 align="center">My toolbox</h3>
